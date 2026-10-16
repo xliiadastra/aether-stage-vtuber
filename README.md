@@ -2,7 +2,8 @@
 
 Built at the Google DeepMind AI Hackathon, Seoul (Oct 16, 2026).
 
-- **Live demo**: https://sometimes-pills-examine-house.trycloudflare.com/services/10-vtuber-live2d-streamer/ (temporary Cloudflare tunnel, may go offline after the event)
+- **Live demo (Google Cloud Run, asia-northeast3)**: https://aether-stage-vtuber-61726290916.asia-northeast3.run.app/
+- Backup live demo (temporary Cloudflare tunnel from our laptop): https://sometimes-pills-examine-house.trycloudflare.com/services/10-vtuber-live2d-streamer/
 - **Demo video** (18 s motion intro): [`demo/intro_motionkit_1080p.mp4`](demo/intro_motionkit_1080p.mp4)
 
 ## What it does
